@@ -1,0 +1,22 @@
+{
+  "name": "pipeline",
+  "version": "1.0.0",
+  "description": "pipe",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borsmar/pipeline.git"
+  },
+  "author": "Hel-Systems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borsmar/pipeline/issues"
+  },
+  "homepage": "https://github.com/borsmar/pipeline#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
