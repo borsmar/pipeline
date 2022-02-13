@@ -2,7 +2,7 @@
   "name": "pipeline",
   "version": "1.0.0",
   "description": "pipe",
-  "main": "main.js",
+  "main": "app.js",
   "scripts": {
     "test": "test"
   },
